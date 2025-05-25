@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 BUS
 CAR
 TRAIN
+=======
+AIML
+CSE
+ECE
+IT
+>>>>>>> fb
