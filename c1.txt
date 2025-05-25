@@ -1,0 +1,4 @@
+AIML
+CSE
+ECE
+IT
